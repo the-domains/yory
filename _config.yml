@@ -1,7 +1,7 @@
 name: yory.photo
 favicon: null
-layout_spectrum: 0.7530071695800871
-typography_spectrum: 0.8513170045334846
+layout_spectrum: 0.48164
+typography_spectrum: 0.13773
 title: よりフォト
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.07151082414202392
+    - '#dee3e6'
+    - '#0c0a0b'
+    - '#3d414a'
+    - '#abaaa6'
+    - '#6c6f78'
+  brandStrength: 0.5
   lightness: 0.805949485162273
   saturation: 0.9381780491676182
-  rhythmicContrast: 0.4304532108362764
+  rhythmicContrast: 0.5
 purpose: []
